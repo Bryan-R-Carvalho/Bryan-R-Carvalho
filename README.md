@@ -1,6 +1,6 @@
 
 
--  I’m currently learning PHP + Laravel <img align="center" alt="Bryan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> + JS
+-  I’m currently learning PHP + Laravel
 
 <div>
   <a href="https://github.com/Bryan-R-Carvalho">
